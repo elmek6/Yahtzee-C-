@@ -1,0 +1,41 @@
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.MainForm.resources
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\OM\Documents\SharpDevelop Projects\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.frmAbout.resources
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.frmAbout.resources
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.MainForm.resources
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+D:\FIXED\pl\C#\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.frmAbout.resources
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.MainForm.resources
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.GenerateResource.Cache
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.frmAbout.resources
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.MainForm.resources
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.GenerateResource.Cache
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+E:\F\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csprojAssemblyReference.cache
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.frmAbout.resources
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.MainForm.resources
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.GenerateResource.cache
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.csproj.CoreCompileInputs.cache
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+D:\Depo1\FIXED\pl\C#\Kodlar\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
